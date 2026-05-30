@@ -24,13 +24,14 @@ repository               : "rubabfatima986/rubabfatima986.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Rubab Fatima"
+  pronouns         :  "she/her"
+  bio              : "bio              : "Development Researcher specialising in climate finance, gender equity, aid effectiveness, and fragility. Experienced with the Green Climate Fund and UNDP. Skilled in cross-country panel econometrics, climate vulnerability analysis, and data visualisation using R, Stata, Python, and Power BI.""
+  location         : "Pakistan"
+  employer         : "Independent Researcher | Ex-Green Climate Fund | Ex-UNDP"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rubabfatima986@gmail.com" "fatimarubab@kdis.ac.kr"
+
 
   # Academic websites
   academia         : # URL
