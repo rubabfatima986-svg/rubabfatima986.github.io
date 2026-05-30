@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Rubab Fatima"
   pronouns         :  "she/her"
-  bio              :"Development Researcher specialising in climate finance, gender equity, aid effectiveness, and fragility. Experienced with the Green Climate Fund and UNDP. Skilled in cross-country panel econometrics, climate vulnerability analysis, and data visualisation using R, Stata, Python, and Power BI."
+  bio              : "Development Researcher specialising in climate finance, gender equity, aid effectiveness, and fragility. Experienced with the Green Climate Fund and UNDP. Skilled in cross-country panel econometrics, climate vulnerability analysis, and data visualisation using R, Stata, Python, and Power BI."
   location         : "Pakistan"
   employer         : "Independent Researcher | Ex-Green Climate Fund | Ex-UNDP"
   uri              : # URL
-  email            : "rubabfatima986@gmail.com" "fatimarubab@kdis.ac.kr"
+  email            : "rubabfatima986@gmail.com"
 
 
   # Academic websites
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/rubabfa/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
