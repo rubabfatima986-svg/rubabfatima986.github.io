@@ -1,5 +1,5 @@
----
-title: **"Climate Change: Risks, Exposure & Global Responses Dashboard"**
+
+**"Climate Change: Risks, Exposure & Global Responses Dashboard"**
 
 ## Overview
 Cross-country analysis of climate risks, CO₂ emissions, and 
