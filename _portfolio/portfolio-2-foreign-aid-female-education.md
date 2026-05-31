@@ -1,5 +1,5 @@
 ---
-title: **"Foreign Aid & Female Education in Developing Countries"**
+ **"Foreign Aid & Female Education in Developing Countries"**
 
 ## Overview
 This study examines how foreign aid composition affects female 
